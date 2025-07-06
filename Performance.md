@@ -6,9 +6,9 @@ Profesor: Johansell Villalobos Cubillo
 
 ---
 
-## Objetivo del análisis (Parte 4)
+## Objetivo del análisis
 
-En esta última parte del trabajo, realicé un análisis detallado del rendimiento del Juego de la Vida de Conway implementado previamente. Utilicé herramientas de perfilado profesional para identificar las funciones más costosas y a partir de eso, interpreté los cuellos de botella que impactan el rendimiento general del programa.
+En esta tarea 2, realicé un análisis detallado del rendimiento del Juego de la Vida de Conway implementado previamente. Utilicé herramientas de perfilado profesional para identificar las funciones más costosas y a partir de eso, interpreté los cuellos de botella que impactan el rendimiento general del programa.
 
 Además, ejecuté pruebas de escalabilidad fuerte y débil para evaluar el comportamiento del sistema cuando se modifica la cantidad de procesos y el tamaño del problema. El objetivo fue obtener evidencia empírica para entender el impacto del paralelismo y la estructura del código en el rendimiento de la simulación.
 
