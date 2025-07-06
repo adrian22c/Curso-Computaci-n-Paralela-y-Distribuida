@@ -1,0 +1,19 @@
+         26214819 function calls in 84.848 seconds
+
+   Ordered by: cumulative time
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.000    0.000   84.848   84.848 /workspaces/Curso-Computaci-n-Paralela-y-Distribuida/CodigoReferecia.py:487(ejecutar_simulacion)
+        1    0.000    0.000   84.848   84.848 /workspaces/Curso-Computaci-n-Paralela-y-Distribuida/CodigoReferecia.py:97(run)
+      100   11.381    0.114   84.847    0.848 /workspaces/Curso-Computaci-n-Paralela-y-Distribuida/CodigoReferecia.py:80(step)
+ 26214400   73.446    0.000   73.446    0.000 /workspaces/Curso-Computaci-n-Paralela-y-Distribuida/CodigoReferecia.py:60(count_neighbors)
+      101    0.020    0.000    0.020    0.000 {built-in method numpy.array}
+      100    0.000    0.000    0.020    0.000 /home/codespace/.local/lib/python3.12/site-packages/numpy/lib/_function_base_impl.py:898(copy)
+       12    0.000    0.000    0.000    0.000 {built-in method builtins.print}
+        1    0.000    0.000    0.000    0.000 /workspaces/Curso-Computaci-n-Paralela-y-Distribuida/CodigoReferecia.py:41(__init__)
+        1    0.000    0.000    0.000    0.000 /workspaces/Curso-Computaci-n-Paralela-y-Distribuida/CodigoReferecia.py:157(glider_pattern)
+        1    0.000    0.000    0.000    0.000 {built-in method numpy.zeros}
+      100    0.000    0.000    0.000    0.000 /home/codespace/.local/lib/python3.12/site-packages/numpy/lib/_function_base_impl.py:894(_copy_dispatcher)
+        1    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+
+
